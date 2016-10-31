@@ -1,4 +1,4 @@
-# Hommachi.Stan / DB.Stats　01
+# Hommachi.Stan / DB.Stats　第1回
 
 ### Hommachi.Stan / DB.Stats について
 本町・梅田周辺にて，1ヶ月に1回くらいのペースで統計分析を学ぶグループです。DBS（同志社ビジネススクール）のOBが始めた統計分析の勉強会なので，DB.Stats。
