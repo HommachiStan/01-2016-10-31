@@ -43,4 +43,4 @@ hommachistan01-goto.pdfは使った資料の一部です。
 次回は『みどり本』第3章と4章をやります。
 
 ### 参加方法
-twitter で @hikaru1122 にメッセージとかください。
+twitter で @hikaru1122 にメッセージをお送りください。
