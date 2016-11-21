@@ -1,3 +1,8 @@
+# 第2回以降の資料はいろいろ違うところにアップ予定です
+
+こちらを参照
+http://hikaru1122.hatenadiary.jp/
+
 # Hommachi.Stan / DB.Stats 第1回（2016年10月31日）
 
 ### Hommachi.Stan / DB.Stats について
